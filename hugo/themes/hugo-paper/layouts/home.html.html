@@ -1,11 +1,18 @@
 {{ partial "header.html" . }}
 <h2 class="ui header">Business Functions</h2>
+{{/* range $business_function_key, $business_function := .Site.Taxonomies.business_functions }}
+{{ printf "%#v" $business_function_key }}
+{{ end }}
+{{ range $business_function_key, $business_function := .Site.Data.business_functions }}
+{{ printf "%#v" $business_function_key }}
+{{ printf "%#v" (index .Site.Taxonomies.business_functions "design").Pages }}
+{{ end */}}
 <div class="ui stackable five column grid">
   {{ range $business_function_key, $business_function := .Site.Taxonomies.business_functions }}
   <div class="column">
-    <div class="ui fluid card">
+    <div class="ui {{ index $.Site.Data.business_function_colors $business_function_key }} fluid card">
       <div class="content">
-        <h4 class="ui header">
+        <h4 class="ui {{ index $.Site.Data.business_function_colors $business_function_key }} header">
           <i class="{{ index $.Site.Data.business_function_icons $business_function_key }} icon"></i>
           <div class="content">
             {{ title $business_function_key }}

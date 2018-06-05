@@ -1,0 +1,15 @@
+"governance":
+  icon: "university"
+  color: "blue"
+"design":
+  icon: "pencil alternate"
+  color: "orange"
+"implementation":
+  icon: "wrench"
+  color: "red"
+"verification":
+  icon: "clipboard check"
+  color: "green"
+"operations":
+  icon: "cogs"
+  color: "yellow"
