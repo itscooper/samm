@@ -1,3 +1,9 @@
+---
+title: Environment Management
+business_functions:
+  - Operations
+---
+
 # Meta
 
 | Business Function | Security Practice | Assigned To | % Complete |
@@ -17,7 +23,7 @@
 
 ## Maturity 1
 ### Activity
-Responsibilities for patching across the full stack are defined and known . Respective roles patch the particular components in a defined way. 
+Responsibilities for patching across the full stack are defined and known . Respective roles patch the particular components in a defined way.
 
 #### Maturity Questions
 ##### Q 1
@@ -38,7 +44,7 @@ Do projects document operational environment security requirements?
 
 #### External References
 * Link 1
-* Link 2 
+* Link 2
 
 
 ## Maturity 2

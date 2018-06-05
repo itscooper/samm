@@ -4,4 +4,4 @@ title = "OWASP SAMM 2.0"
 contentDir = "../v2.0/beta"
 theme = "hugo-paper"
 [taxonomies]
-  businessFunction = "Business Functions"
+  business_function = "business_functions"

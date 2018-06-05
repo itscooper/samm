@@ -1,3 +1,9 @@
+---
+title: Security Requirements
+business_functions:
+  - Design
+---
+
 # Meta
 
 | Business Function | Security Practice | Assigned To | % Complete |
@@ -9,7 +15,7 @@
 | | A: Software Requirements | B: 3-rd Party Requirements |
 |:---|:---|:---|
 | Maturity 1 - Consider security explicitly during the software requirements process. | High-level application security objectives | Evaluate the supplier according on security|
-| Maturity 2 - Increase granularity of security requirements derived from business logic and known risks. | Requirements from policies, threats, risks, … | Build security into supplier agreements |
+| Maturity 2 - Increase granularity of security requirements derived from business logic and known risks. | Requirements from policies, threats, risks, ï¿½ | Build security into supplier agreements |
 | Maturity 3 - Mandate security requirements process for all software projects and third-party dependencies. | Build a standard requirements framework | SDLC alignment for external suppliers |
 
 
@@ -38,12 +44,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 #### External References
 * Link 1
-* Link 2 
+* Link 2
 
 
 ## Maturity 2
 ### Activity
-Identify potential security requirements from different origins, including policies and legislation, identified threats in the application, known problems in the application, and so forth. 
+Identify potential security requirements from different origins, including policies and legislation, identified threats in the application, known problems in the application, and so forth.
 
 ### Maturity Questions
 #### Q 1

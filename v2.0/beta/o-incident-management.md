@@ -1,3 +1,9 @@
+---
+title: Incident Management
+business_functions:
+  - Operations
+---
+
 # Meta
 
 | Business Function | Security Practice | Assigned To | % Complete |
@@ -38,7 +44,7 @@ Do projects have a point of contact for security issues or incidents?
 
 #### External References
 * Link 1
-* Link 2 
+* Link 2
 
 
 ## Maturity 2

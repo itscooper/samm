@@ -1,3 +1,9 @@
+---
+title: Operational Management
+business_functions:
+  - Operations
+---
+
 # Meta
 
 | Business Function | Security Practice | Assigned To | % Complete |
@@ -38,7 +44,7 @@ Are security notes delivered with each software release?
 
 #### External References
 * Link 1
-* Link 2 
+* Link 2
 
 
 ## Maturity 2

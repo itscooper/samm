@@ -1,3 +1,9 @@
+---
+title: Threat Assessment
+business_functions:
+  - Design
+---
+
 # Meta
 
 | Business Function | Security Practice | Assigned To | % Complete |
@@ -9,7 +15,7 @@
 | | A: Risk Profile | B: Threat Modeling |
 |:---|:---|:---|
 | Maturity 1 - Identify and understand high-level threats to the organization and individual projects. | Basic Application Risk Questionnaire/Classification (BIA) | Basic Application Risk Questionnaire/Classification (BIA)|
-| Maturity 2 - Increase accuracy of threat assessment and improve granularity of per-project understanding. | Risk-driven security objectives (guidance, processes, standards, …) | Systematic (methodological) threat modeling |
+| Maturity 2 - Increase accuracy of threat assessment and improve granularity of per-project understanding. | Risk-driven security objectives (guidance, processes, standards, ï¿½) | Systematic (methodological) threat modeling |
 | Maturity 3 - Concretely align compensating controls to each threat against internal and third-party software. | Continuous Application Risk Portfolio Management System | Integrated threat management system |
 
 
@@ -38,12 +44,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 #### External References
 * Link 1
-* Link 2 
+* Link 2
 
 
 ## Maturity 2
 ### Activity
-Using a limited set of application risk levels, establish specific sets of requirements, practices and guidelines for the different risk levels.
+Using a limited set of application risk levels, establish specific sets of requirements, practices andï¿½guidelines for the different risk levels.
 
 ### Maturity Questions
 #### Q 1

@@ -1,3 +1,9 @@
+---
+title: Policy & Compliance
+business_functions:
+  - Governance
+---
+
 # Meta
 
 | Business Function | Security Practice | Assigned To | % Complete |
@@ -38,7 +44,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 #### External References
 * Link 1
-* Link 2 
+* Link 2
 
 
 ## Maturity 2

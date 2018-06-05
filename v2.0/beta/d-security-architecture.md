@@ -1,6 +1,7 @@
 ---
-Title: Security Architecture
-Business Function: Design
+title: Security Architecture
+business_functions:
+  - Design
 ---
 
 # Meta
