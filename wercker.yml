@@ -20,7 +20,15 @@ build:
     # Read more about steps on our dev center:
     # http://devcenter.wercker.com/docs/steps/index.html
   steps:
-    - arjen/hugo-build@2.1.0:
+    - arjen/hugo-build:
         version: "0.41"
         flags: --buildDrafts=true
         basedir: "hugo"
+deploy:
+  steps:
+    - install-packages:
+        packages: git ssh-client
+    - lukevivier/gh-pages:
+        token: $GIT_TOKEN
+        domain: itscooper.github.io
+        basedir: hugo/public
