@@ -1,0 +1,8 @@
+{{ range $key, $value := .Site.Taxonomies.businessFunction }}
+  <li> {{ $key }} </li>
+        <ul>
+        {{ range $value.Pages }}
+            <li hugo-nav="{{ .RelPermalink}}"><a href="{{ .Permalink}}"> {{ .LinkTitle }} </a> </li>
+        {{ end }}
+        </ul>
+  {{ end }}

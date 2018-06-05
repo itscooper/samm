@@ -3,3 +3,5 @@ languageCode = "en-us"
 title = "OWASP SAMM 2.0"
 contentDir = "../v2.0/beta"
 theme = "hugo-paper"
+[taxonomies]
+  businessFunction = "Business Functions"

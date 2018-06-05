@@ -1,3 +1,8 @@
+---
+Title: Security Architecture
+Business Function: Design
+---
+
 # Meta
 
 | Business Function | Security Practice | Assigned To | % Complete |
@@ -38,7 +43,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 #### External References
 * Link 1
-* Link 2 
+* Link 2
 
 
 ## Maturity 2
@@ -149,7 +154,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Maturity 3
 ### Activity
-For all proprietary development (in-house or acquired), impose the use of standardized technology. Align legacy software to these standards.
+For all proprietary development (in-house or acquired), impose the use of standardized technology.ï¿½Align legacy software to these standards.
 
 ### Maturity Questions
 #### Q 1
