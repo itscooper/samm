@@ -1,7 +1,7 @@
 ---
 title: Security Requirements
 business_functions:
-  - Design
+  - Governance
 ---
 
 # Meta
