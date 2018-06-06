@@ -3,6 +3,7 @@ title: Policy & Compliance
 business_functions:
   - Governance
 progress: 0
+business_functions_weight: 2
 ---
 
 # Meta

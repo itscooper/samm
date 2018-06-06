@@ -3,6 +3,7 @@ title: Strategy & Metrics
 business_functions:
   - Governance
 progress: 0
+business_functions_weight: 1
 ---
 
 # Meta

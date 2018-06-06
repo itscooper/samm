@@ -3,6 +3,7 @@ title: Security Architecture
 business_functions:
   - Design
 progress: 0
+business_functions_weight: 3
 ---
 
 # Meta

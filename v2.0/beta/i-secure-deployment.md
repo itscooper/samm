@@ -3,6 +3,7 @@ title: Secure Deployment
 business_functions:
   - Implementation
 progress: 0
+business_functions_weight: 2
 ---
 
 # Meta

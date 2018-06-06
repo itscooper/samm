@@ -3,6 +3,7 @@ title: Security Testing
 business_functions:
   - Verification
 progress: 0
+business_functions_weight: 3
 ---
 
 # Meta

@@ -3,6 +3,7 @@ title: Education & Guidance
 business_functions:
   - Governance
 progress: 0
+business_functions_weight: 3
 ---
 
 # Meta

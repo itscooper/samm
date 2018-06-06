@@ -3,6 +3,7 @@ title: Security Requirements
 business_functions:
   - Design
 progress: 0
+business_functions_weight: 2
 ---
 
 # Meta
