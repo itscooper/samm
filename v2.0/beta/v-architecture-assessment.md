@@ -2,6 +2,7 @@
 title: Architecture Assessment
 business_functions:
   - Verification
+progress: 0
 ---
 
 # Meta

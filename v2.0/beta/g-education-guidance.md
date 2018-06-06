@@ -2,6 +2,7 @@
 title: Education & Guidance
 business_functions:
   - Governance
+progress: 0
 ---
 
 # Meta

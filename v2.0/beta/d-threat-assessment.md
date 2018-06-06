@@ -2,6 +2,7 @@
 title: Threat Assessment
 business_functions:
   - Design
+progress: 0
 ---
 
 # Meta

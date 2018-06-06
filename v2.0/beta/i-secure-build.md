@@ -2,6 +2,7 @@
 title: Secure Build
 business_functions:
   - Implementation
+progress: 0
 ---
 
 # Meta

@@ -2,6 +2,7 @@
 title: Operational Management
 business_functions:
   - Operations
+progress: 0
 ---
 
 # Meta

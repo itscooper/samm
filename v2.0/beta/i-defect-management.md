@@ -2,6 +2,7 @@
 title: Defect Management
 business_functions:
   - Implementation
+progress: 0
 ---
 
 # Meta

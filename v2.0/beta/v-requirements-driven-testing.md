@@ -2,6 +2,7 @@
 title: Requirements Driven Testing
 business_functions:
   - Verification
+progress: 0
 ---
 
 # Meta

@@ -2,6 +2,7 @@
 title: Policy & Compliance
 business_functions:
   - Governance
+progress: 0
 ---
 
 # Meta
