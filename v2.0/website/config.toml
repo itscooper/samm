@@ -1,7 +1,7 @@
 baseURL = "https://itscooper-samm.sandbox1.cloud/"
 languageCode = "en-us"
 title = "OWASP SAMM 2.0"
-contentDir = "../beta"
+contentDir = "../beta/"
 theme = "owasp-samm"
 [taxonomies]
   business_function = "business_functions"
