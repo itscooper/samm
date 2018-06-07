@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Implementation on OWASP SAMM 2.0</title>
+    <link>https://itscooper-samm.sandbox1.cloud/business_functions/implementation/</link>
+    <description>Recent content in Implementation on OWASP SAMM 2.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://itscooper-samm.sandbox1.cloud/business_functions/implementation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Secure Build</title>
+      <link>https://itscooper-samm.sandbox1.cloud/core/implementation/i-secure-build/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itscooper-samm.sandbox1.cloud/core/implementation/i-secure-build/</guid>
+      <description>Meta    Business Function Security Practice Assigned To % Complete     Implementation Secure Build Name (email) 0%    Overview     A: Build Process B: Software Supply Chain     Maturity 1 - Build process is repeatable and consistent The build process is documented and consistent. All application components are identified and documented   Maturity 2 - Build process is optimized and fully integrated into the workflow The build process is fully automated and does not require intervention by the developer.</description>
+    </item>
+    
+    <item>
+      <title>Secure Deployment</title>
+      <link>https://itscooper-samm.sandbox1.cloud/core/implementation/i-secure-deployment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itscooper-samm.sandbox1.cloud/core/implementation/i-secure-deployment/</guid>
+      <description>Meta    Business Function Security Practice Assigned To % Complete     Implementation Secure Deployment Name (email) 0%    Overview     A: Deployment Process B: Configurations/Secret Management     Maturity 1 - Deployment processes are fully documented Deployment is automated or done by someone other than the developer. Configuration files are versioned   Maturity 2 - Deployment processes include security verification milestores Integration of security verification in deployment (e.</description>
+    </item>
+    
+    <item>
+      <title>Defect Management</title>
+      <link>https://itscooper-samm.sandbox1.cloud/core/implementation/i-defect-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itscooper-samm.sandbox1.cloud/core/implementation/i-defect-management/</guid>
+      <description>Meta    Business Function Security Practice Assigned To % Complete     Implementation Defect Management Name (email) 0%    Overview     A: Defect Tracking (Flaws/Bugs/Process) B: Metrics and Feedback/Learning     Maturity 1 - All defects are tracked within each project Track all defects Calculate and share basic metrics, such as total counts   Maturity 2 - Defect tracking used to influence the deployment process Assign SLA based on security rating of the defect Calculate more advanced metrics that include new issue velocity, remediation speed metrics, and trends.</description>
+    </item>
+    
+  </channel>
+</rss>

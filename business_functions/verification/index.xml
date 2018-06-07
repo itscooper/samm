@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Verification on OWASP SAMM 2.0</title>
+    <link>https://itscooper-samm.sandbox1.cloud/business_functions/verification/</link>
+    <description>Recent content in Verification on OWASP SAMM 2.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://itscooper-samm.sandbox1.cloud/business_functions/verification/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Architecture Assessment</title>
+      <link>https://itscooper-samm.sandbox1.cloud/core/verification/v-architecture-assessment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itscooper-samm.sandbox1.cloud/core/verification/v-architecture-assessment/</guid>
+      <description>Meta    Business Function Security Practice Assigned To % Complete     Verification Architecture Assessment Seba (seba@owasp.org) 0%    Overview     A: Application Architecture B: Supporting Architecture     Maturity 1 - Support ad-hoc reviews of software design to ensure baseline mitigations for known risks. Analyze application architecture against known security requirements and security best practices Analyze supporting architecture against known security requirements and best practices   Maturity 2 - Offer assessment services to review software design against comprehensive best practices for security.</description>
+    </item>
+    
+    <item>
+      <title>Requirements Driven Testing</title>
+      <link>https://itscooper-samm.sandbox1.cloud/core/verification/v-requirements-driven-testing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itscooper-samm.sandbox1.cloud/core/verification/v-requirements-driven-testing/</guid>
+      <description>Meta    Business Function Security Practice Assigned To % Complete     Verification Requirements Driven Testing Seba (seba@owasp.org) 0%    Overview     A: Control Verification B: Misuse/Abuse Testing     Maturity 1 - Opportunistically find basic code-level vulnerabilities and other high-risk security issues. Test for standard security controls Perform security fuzzing testing   Maturity 2 - Make implementation review during development more accurate and efficient through automation.</description>
+    </item>
+    
+    <item>
+      <title>Security Testing</title>
+      <link>https://itscooper-samm.sandbox1.cloud/core/verification/v-security-testing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itscooper-samm.sandbox1.cloud/core/verification/v-security-testing/</guid>
+      <description>Meta    Business Function Security Practice Assigned To % Complete     Verification Security Testing Seba (seba@owasp.org) 0%    Overview     A: Scalable Baseline B: Deep Understanding     Maturity 1 - Establish process to perform basic security tests based on implementation and software requirements. Utilize automated security testing tools Perform manual security testing of high-risk components   Maturity 2 - Make security testing during development more complete and efficient through automation.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Governance on OWASP SAMM 2.0</title>
+    <link>https://itscooper-samm.sandbox1.cloud/business_functions/governance/</link>
+    <description>Recent content in Governance on OWASP SAMM 2.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://itscooper-samm.sandbox1.cloud/business_functions/governance/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Strategy &amp; Metrics</title>
+      <link>https://itscooper-samm.sandbox1.cloud/core/governance/g-strategy-metrics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itscooper-samm.sandbox1.cloud/core/governance/g-strategy-metrics/</guid>
+      <description>Meta    Business Function Security Practice Assigned To % Complete     Governance Strategy &amp;amp; Metrics Name (email) 0%    Overview     A: Build and Promote B: Measure and Improve     Maturity 1 - Measure relative value of data and software assets and choose risk tolerance. Compare threat landscape to business risk tolerance Align asset classification with business risk profile   Maturity 2 - Establish a unified strategic roadmap for software security within the organization.</description>
+    </item>
+    
+    <item>
+      <title>Policy &amp; Compliance</title>
+      <link>https://itscooper-samm.sandbox1.cloud/core/governance/g-policy-compliance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itscooper-samm.sandbox1.cloud/core/governance/g-policy-compliance/</guid>
+      <description>Meta    Business Function Security Practice Assigned To % Complete     Governance Policy &amp;amp; Compliance Name (email) 0%    Overview     A: Policy and Standards B: Compliance Management     Maturity 1 - Understand governance and compliance drivers relevant to the organization. Consolidate line-of-business compliance obligations Monitor external compliance drivers   Maturity 2 - Establish security and compliance baseline and understand per-project risks.</description>
+    </item>
+    
+    <item>
+      <title>Education &amp; Guidance</title>
+      <link>https://itscooper-samm.sandbox1.cloud/core/governance/g-education-guidance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itscooper-samm.sandbox1.cloud/core/governance/g-education-guidance/</guid>
+      <description>Meta    Business Function Security Practice Assigned To % Complete     Governance Education &amp;amp; Guidance Name (email) 0%    Overview     A: Training and Awareness B: Organization and Culture     Maturity 1 - Offer development staff access to resources around the topics of secure programming and deployment. Establish security guidance consistent with risk profile Begin to develop a build-security-in mindset   Maturity 2 - Educate all personnel in the software lifecycle with role-specific guidance on secure development.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business_functions on OWASP SAMM 2.0</title>
+    <link>https://itscooper-samm.sandbox1.cloud/business_functions/</link>
+    <description>Recent content in Business_functions on OWASP SAMM 2.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://itscooper-samm.sandbox1.cloud/business_functions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Design</title>
+      <link>https://itscooper-samm.sandbox1.cloud/business_functions/design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itscooper-samm.sandbox1.cloud/business_functions/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Governance</title>
+      <link>https://itscooper-samm.sandbox1.cloud/business_functions/governance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itscooper-samm.sandbox1.cloud/business_functions/governance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementation</title>
+      <link>https://itscooper-samm.sandbox1.cloud/business_functions/implementation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itscooper-samm.sandbox1.cloud/business_functions/implementation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operations</title>
+      <link>https://itscooper-samm.sandbox1.cloud/business_functions/operations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itscooper-samm.sandbox1.cloud/business_functions/operations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verification</title>
+      <link>https://itscooper-samm.sandbox1.cloud/business_functions/verification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itscooper-samm.sandbox1.cloud/business_functions/verification/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

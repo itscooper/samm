@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design on OWASP SAMM 2.0</title>
+    <link>https://itscooper-samm.sandbox1.cloud/business_functions/design/</link>
+    <description>Recent content in Design on OWASP SAMM 2.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://itscooper-samm.sandbox1.cloud/business_functions/design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Threat Assessment</title>
+      <link>https://itscooper-samm.sandbox1.cloud/core/design/d-threat-assessment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itscooper-samm.sandbox1.cloud/core/design/d-threat-assessment/</guid>
+      <description>Meta    Business Function Security Practice Assigned To % Complete     Design Threat Assessment bart.dewin@owasp.org 0%    Overview     A: Risk Profile B: Threat Modeling     Maturity 1 - Identify and understand high-level threats to the organization and individual projects. Basic Application Risk Questionnaire/Classification (BIA) Basic Application Risk Questionnaire/Classification (BIA)   Maturity 2 - Increase accuracy of threat assessment and improve granularity of per-project understanding.</description>
+    </item>
+    
+    <item>
+      <title>Security Requirements</title>
+      <link>https://itscooper-samm.sandbox1.cloud/core/design/d-security-requirements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itscooper-samm.sandbox1.cloud/core/design/d-security-requirements/</guid>
+      <description>Meta    Business Function Security Practice Assigned To % Complete     Design Security Requirements bart.dewin@owasp.org 0%    Overview     A: Software Requirements B: 3-rd Party Requirements     Maturity 1 - Consider security explicitly during the software requirements process. High-level application security objectives Evaluate the supplier according on security   Maturity 2 - Increase granularity of security requirements derived from business logic and known risks.</description>
+    </item>
+    
+    <item>
+      <title>Security Architecture</title>
+      <link>https://itscooper-samm.sandbox1.cloud/core/design/d-security-architecture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itscooper-samm.sandbox1.cloud/core/design/d-security-architecture/</guid>
+      <description>Meta    Business Function Security Practice Assigned To % Complete     Design Security Architecture bart.dewin@owasp.org 0%    Overview     A: Secure Architecture Design B: Technology Management     Maturity 1 - Insert consideration of proactive security guidance into the software design process. Identify basic design principles Elicit technologies, frameworks and integrations within the overall solution   Maturity 2 - Direct the software design process toward known- secure services and secure-by-default designs.</description>
+    </item>
+    
+  </channel>
+</rss>

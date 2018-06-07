@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OWASP SAMM 2.0</title>
+    <link>https://itscooper-samm.sandbox1.cloud/</link>
+    <description>Recent content on OWASP SAMM 2.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://itscooper-samm.sandbox1.cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Architecture Assessment</title>
+      <link>https://itscooper-samm.sandbox1.cloud/core/verification/v-architecture-assessment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itscooper-samm.sandbox1.cloud/core/verification/v-architecture-assessment/</guid>
+      <description>Meta    Business Function Security Practice Assigned To % Complete     Verification Architecture Assessment Seba (seba@owasp.org) 0%    Overview     A: Application Architecture B: Supporting Architecture     Maturity 1 - Support ad-hoc reviews of software design to ensure baseline mitigations for known risks. Analyze application architecture against known security requirements and security best practices Analyze supporting architecture against known security requirements and best practices   Maturity 2 - Offer assessment services to review software design against comprehensive best practices for security.</description>
+    </item>
+    
+    <item>
+      <title>Defect Management</title>
+      <link>https://itscooper-samm.sandbox1.cloud/core/implementation/i-defect-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itscooper-samm.sandbox1.cloud/core/implementation/i-defect-management/</guid>
+      <description>Meta    Business Function Security Practice Assigned To % Complete     Implementation Defect Management Name (email) 0%    Overview     A: Defect Tracking (Flaws/Bugs/Process) B: Metrics and Feedback/Learning     Maturity 1 - All defects are tracked within each project Track all defects Calculate and share basic metrics, such as total counts   Maturity 2 - Defect tracking used to influence the deployment process Assign SLA based on security rating of the defect Calculate more advanced metrics that include new issue velocity, remediation speed metrics, and trends.</description>
+    </item>
+    
+    <item>
+      <title>Education &amp; Guidance</title>
+      <link>https://itscooper-samm.sandbox1.cloud/core/governance/g-education-guidance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itscooper-samm.sandbox1.cloud/core/governance/g-education-guidance/</guid>
+      <description>Meta    Business Function Security Practice Assigned To % Complete     Governance Education &amp;amp; Guidance Name (email) 0%    Overview     A: Training and Awareness B: Organization and Culture     Maturity 1 - Offer development staff access to resources around the topics of secure programming and deployment. Establish security guidance consistent with risk profile Begin to develop a build-security-in mindset   Maturity 2 - Educate all personnel in the software lifecycle with role-specific guidance on secure development.</description>
+    </item>
+    
+    <item>
+      <title>Environment Management</title>
+      <link>https://itscooper-samm.sandbox1.cloud/core/operations/o-environment-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itscooper-samm.sandbox1.cloud/core/operations/o-environment-management/</guid>
+      <description>Meta    Business Function Security Practice Assigned To % Complete     Operations Environment Management John (john.dileo@owasp.org) 0%    Overview     A: Patching (and Updating) B: Hardening     Maturity 1 - Best-effort patching and hardening High-level process and roles defined Opportunistic best-effort hardening   Maturity 2 - Formal process with baselines in place Formal process covering the full stack Hardening baseline and guidelines available   Maturity 3 - Conformity with continuously improving process enforced Consolidated update process with SLA and reporting Detection and handling of non-conformities    A: Patching (and Updating) Maturity 1 Activity Responsibilities for patching across the full stack are defined and known .</description>
+    </item>
+    
+    <item>
+      <title>Incident Management</title>
+      <link>https://itscooper-samm.sandbox1.cloud/core/operations/o-incident-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itscooper-samm.sandbox1.cloud/core/operations/o-incident-management/</guid>
+      <description>Meta    Business Function Security Practice Assigned To % Complete     Operations Incident Management John (john.dileo@owasp.org) 0%    Overview     A: Incident Detection B: Incident Response     Maturity 1 - Best-effort incident detection and handling Best-effort incident detection with available log data Defined high-level incident response strategy   Maturity 2 - Formal incident management process in place Automated log evaluation driven by process Root Cause Analysis with feedback loop   Maturity 3 - Mature incident management Reliable timely incident detection Proactive incident + emergency exercises    A: Incident Detection Maturity 1 Activity Opportunistic, either manual or automated analysis is carried out upon available log data regularly.</description>
+    </item>
+    
+    <item>
+      <title>Operational Management</title>
+      <link>https://itscooper-samm.sandbox1.cloud/core/operations/o-operational-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itscooper-samm.sandbox1.cloud/core/operations/o-operational-management/</guid>
+      <description>Meta    Business Function Security Practice Assigned To % Complete     Operations Operational Management John (john.dileo@owasp.org) 0%    Overview     A: Data Protection B: System decomissioning / Legacy management     Maturity 1 - Best-effort activities Data locations documented Opportunistic identification of unused applications or services   Maturity 2 - Processes in place Data protection policy established Decomissioning process in place   Maturity 3 - Continuous improvement enforced Data policy breaches detected and acted upon Proactive reliable handling of legacy    A: Data Protection Maturity 1 Activity It is documented which applications process and store which data.</description>
+    </item>
+    
+    <item>
+      <title>Policy &amp; Compliance</title>
+      <link>https://itscooper-samm.sandbox1.cloud/core/governance/g-policy-compliance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itscooper-samm.sandbox1.cloud/core/governance/g-policy-compliance/</guid>
+      <description>Meta    Business Function Security Practice Assigned To % Complete     Governance Policy &amp;amp; Compliance Name (email) 0%    Overview     A: Policy and Standards B: Compliance Management     Maturity 1 - Understand governance and compliance drivers relevant to the organization. Consolidate line-of-business compliance obligations Monitor external compliance drivers   Maturity 2 - Establish security and compliance baseline and understand per-project risks.</description>
+    </item>
+    
+    <item>
+      <title>Requirements Driven Testing</title>
+      <link>https://itscooper-samm.sandbox1.cloud/core/verification/v-requirements-driven-testing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itscooper-samm.sandbox1.cloud/core/verification/v-requirements-driven-testing/</guid>
+      <description>Meta    Business Function Security Practice Assigned To % Complete     Verification Requirements Driven Testing Seba (seba@owasp.org) 0%    Overview     A: Control Verification B: Misuse/Abuse Testing     Maturity 1 - Opportunistically find basic code-level vulnerabilities and other high-risk security issues. Test for standard security controls Perform security fuzzing testing   Maturity 2 - Make implementation review during development more accurate and efficient through automation.</description>
+    </item>
+    
+    <item>
+      <title>Secure Build</title>
+      <link>https://itscooper-samm.sandbox1.cloud/core/implementation/i-secure-build/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itscooper-samm.sandbox1.cloud/core/implementation/i-secure-build/</guid>
+      <description>Meta    Business Function Security Practice Assigned To % Complete     Implementation Secure Build Name (email) 0%    Overview     A: Build Process B: Software Supply Chain     Maturity 1 - Build process is repeatable and consistent The build process is documented and consistent. All application components are identified and documented   Maturity 2 - Build process is optimized and fully integrated into the workflow The build process is fully automated and does not require intervention by the developer.</description>
+    </item>
+    
+    <item>
+      <title>Secure Deployment</title>
+      <link>https://itscooper-samm.sandbox1.cloud/core/implementation/i-secure-deployment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itscooper-samm.sandbox1.cloud/core/implementation/i-secure-deployment/</guid>
+      <description>Meta    Business Function Security Practice Assigned To % Complete     Implementation Secure Deployment Name (email) 0%    Overview     A: Deployment Process B: Configurations/Secret Management     Maturity 1 - Deployment processes are fully documented Deployment is automated or done by someone other than the developer. Configuration files are versioned   Maturity 2 - Deployment processes include security verification milestores Integration of security verification in deployment (e.</description>
+    </item>
+    
+    <item>
+      <title>Security Architecture</title>
+      <link>https://itscooper-samm.sandbox1.cloud/core/design/d-security-architecture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itscooper-samm.sandbox1.cloud/core/design/d-security-architecture/</guid>
+      <description>Meta    Business Function Security Practice Assigned To % Complete     Design Security Architecture bart.dewin@owasp.org 0%    Overview     A: Secure Architecture Design B: Technology Management     Maturity 1 - Insert consideration of proactive security guidance into the software design process. Identify basic design principles Elicit technologies, frameworks and integrations within the overall solution   Maturity 2 - Direct the software design process toward known- secure services and secure-by-default designs.</description>
+    </item>
+    
+    <item>
+      <title>Security Requirements</title>
+      <link>https://itscooper-samm.sandbox1.cloud/core/design/d-security-requirements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itscooper-samm.sandbox1.cloud/core/design/d-security-requirements/</guid>
+      <description>Meta    Business Function Security Practice Assigned To % Complete     Design Security Requirements bart.dewin@owasp.org 0%    Overview     A: Software Requirements B: 3-rd Party Requirements     Maturity 1 - Consider security explicitly during the software requirements process. High-level application security objectives Evaluate the supplier according on security   Maturity 2 - Increase granularity of security requirements derived from business logic and known risks.</description>
+    </item>
+    
+    <item>
+      <title>Security Testing</title>
+      <link>https://itscooper-samm.sandbox1.cloud/core/verification/v-security-testing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itscooper-samm.sandbox1.cloud/core/verification/v-security-testing/</guid>
+      <description>Meta    Business Function Security Practice Assigned To % Complete     Verification Security Testing Seba (seba@owasp.org) 0%    Overview     A: Scalable Baseline B: Deep Understanding     Maturity 1 - Establish process to perform basic security tests based on implementation and software requirements. Utilize automated security testing tools Perform manual security testing of high-risk components   Maturity 2 - Make security testing during development more complete and efficient through automation.</description>
+    </item>
+    
+    <item>
+      <title>Strategy &amp; Metrics</title>
+      <link>https://itscooper-samm.sandbox1.cloud/core/governance/g-strategy-metrics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itscooper-samm.sandbox1.cloud/core/governance/g-strategy-metrics/</guid>
+      <description>Meta    Business Function Security Practice Assigned To % Complete     Governance Strategy &amp;amp; Metrics Name (email) 0%    Overview     A: Build and Promote B: Measure and Improve     Maturity 1 - Measure relative value of data and software assets and choose risk tolerance. Compare threat landscape to business risk tolerance Align asset classification with business risk profile   Maturity 2 - Establish a unified strategic roadmap for software security within the organization.</description>
+    </item>
+    
+    <item>
+      <title>Threat Assessment</title>
+      <link>https://itscooper-samm.sandbox1.cloud/core/design/d-threat-assessment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itscooper-samm.sandbox1.cloud/core/design/d-threat-assessment/</guid>
+      <description>Meta    Business Function Security Practice Assigned To % Complete     Design Threat Assessment bart.dewin@owasp.org 0%    Overview     A: Risk Profile B: Threat Modeling     Maturity 1 - Identify and understand high-level threats to the organization and individual projects. Basic Application Risk Questionnaire/Classification (BIA) Basic Application Risk Questionnaire/Classification (BIA)   Maturity 2 - Increase accuracy of threat assessment and improve granularity of per-project understanding.</description>
+    </item>
+    
+  </channel>
+</rss>
