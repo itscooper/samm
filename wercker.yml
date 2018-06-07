@@ -31,4 +31,4 @@ deploy:
     - lukevivier/gh-pages:
         token: $GIT_TOKEN
         domain: itscooper-samm.sandbox1.cloud
-        basedir: hugo/public
+        basedir: v2.0/website/public
